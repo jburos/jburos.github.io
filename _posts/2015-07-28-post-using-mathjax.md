@@ -28,7 +28,7 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![plot of chunk unnamed-chunk-2](/knitr-jekyllfigure/source/2015-07-28-first-jekyll-post/unnamed-chunk-2-1.png) 
+![plot of chunk unnamed-chunk-1]({{ site.url }}/images/post-using-mathjax-unnamed-chunk-1-1.png) 
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
