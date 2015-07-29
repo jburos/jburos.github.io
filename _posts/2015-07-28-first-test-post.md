@@ -1,6 +1,6 @@
 ---
-title: "first-test-post"
-layout: default
+title: "first test post"
+layout: post
 ---
 
 
