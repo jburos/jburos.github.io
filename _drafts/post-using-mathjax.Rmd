@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Post using mathjax"
 categories: [jekyll, rstats]
 tags: [knitr, servr, httpuv, websocket]

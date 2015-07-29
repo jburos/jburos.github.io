@@ -1,6 +1,6 @@
 ---
 title: "first-test-post"
-layout: default
+layout: post
 ---
 
 ```{r global_options, include=FALSE}
